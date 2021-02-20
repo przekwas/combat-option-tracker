@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/combat-option-tracker/static/css/main.c1db11a9.chunk.css",
+    "main.css": "/combat-option-tracker/static/css/main.61718ab4.chunk.css",
     "main.js": "/combat-option-tracker/static/js/main.65b48edb.chunk.js",
     "main.js.map": "/combat-option-tracker/static/js/main.65b48edb.chunk.js.map",
     "runtime-main.js": "/combat-option-tracker/static/js/runtime-main.2ff19177.js",
@@ -10,13 +10,13 @@
     "static/js/3.57a3cc19.chunk.js": "/combat-option-tracker/static/js/3.57a3cc19.chunk.js",
     "static/js/3.57a3cc19.chunk.js.map": "/combat-option-tracker/static/js/3.57a3cc19.chunk.js.map",
     "index.html": "/combat-option-tracker/index.html",
-    "static/css/main.c1db11a9.chunk.css.map": "/combat-option-tracker/static/css/main.c1db11a9.chunk.css.map",
+    "static/css/main.61718ab4.chunk.css.map": "/combat-option-tracker/static/css/main.61718ab4.chunk.css.map",
     "static/js/2.506b6913.chunk.js.LICENSE.txt": "/combat-option-tracker/static/js/2.506b6913.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2ff19177.js",
     "static/js/2.506b6913.chunk.js",
-    "static/css/main.c1db11a9.chunk.css",
+    "static/css/main.61718ab4.chunk.css",
     "static/js/main.65b48edb.chunk.js"
   ]
 }
