@@ -1,6 +1,6 @@
 {
   "name": "combat-option-tracker",
-	"homepage": "http://przekwas.github.io/combat-option-tracker"
+	"homepage": "http://przekwas.github.io/combat-option-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
